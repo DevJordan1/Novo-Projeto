@@ -18,4 +18,4 @@ const produtos = [
     imagem: "Produtos/MarketingDigital.png",
     link: "https://pay.kiwify.com.br/t9ZDmE2?afid=FWOy8LEH"
   }
-];
+]
